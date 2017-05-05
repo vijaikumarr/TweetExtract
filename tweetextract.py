@@ -54,7 +54,7 @@ def process_results(results):
 
 #query=input("Input the twitter search string : " )   
 #numresults=int(input("Input number of seach results : " )  )
-query="ACA Obamacare"
+query="Your search string here"
 numresults=50
 
 while strdate == datetime.datetime.now().strftime("%Y-%m-%d") :
